@@ -8,4 +8,4 @@ If there have been no changes in the main branch and a feature branch is to be m
 Different branches should be used by different developers so that each developer can work independently from one another. This prevents conflict (one developer's work resulting in a blocker/error to the other developer's work). Also, each developer's progress can be tracked separately.
 
 • In a project how many remote Git repositories do you usually have?
-One
+For personal projects, usually one repository is used, but depending on the organization, there can be a separate repository for front-end, back-end, integration service, webhook, etc.
